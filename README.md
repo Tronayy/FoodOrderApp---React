@@ -1,4 +1,11 @@
 # FoodOrderApp---React
-This is a food delivery app that was created with the help of the instructions of Maximillian from his course on Udemy on React.js. The app collects the information of the food that the user orders and creates a cart for that session that can be ordered later. 
+
+This is a food delivery app. The app collects the information of the food that the user orders and creates a cart for that session that can even be ordered later based on session cookies. 
 The cart keeps a count of the items and the total amount allowing dyncamic changes as well.
-It runs by using npm install on the terminal to install node modules and then npm start to start the server on localhost:3000.
+
+## How to run?
+
+The app can be run by:
+1. Download the zip folder and unzip it.
+2. Use `npm install` in the main directory to install node modules.
+3. Run `npm start` to start the app on http://localhost:3000
